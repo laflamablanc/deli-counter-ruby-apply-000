@@ -33,10 +33,10 @@ def take_a_number(line, name)
   
 end
 
+count = 0
+
 def take_a_number(line)
-  count = 0 
-  
-  count += 1
+  count +=1
   return count
 end
 
